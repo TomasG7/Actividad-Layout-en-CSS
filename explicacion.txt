@@ -1,0 +1,4 @@
+1. Movi el menú a la derecha usando la propiedad float para cambiar su posición escribiendo 'right' (derecha)
+2. Para que el menú no se visualice agregue 'display: none'
+3. Agregue 'visibility: hidden' para ocultar el pie de pagina
+4. Similar al punto anterior, solo que en este caso agregue 'visibility: hidden' al encabezado.
